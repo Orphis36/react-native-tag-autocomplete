@@ -162,14 +162,14 @@ const styles = StyleSheet.create({
     flexDirection: "row",
     flexWrap: "wrap",
     alignItems: "flex-start",
-    backgroundColor: "#efeaea",
-    width: 300
+    // backgroundColor: "#efeaea",
+    width: "100%",
   },
   tag: {
-    backgroundColor: "rgb(244, 244, 244)",
+    backgroundColor: "#AED361",
     justifyContent: "center",
     alignItems: "center",
-    height: 30,
+    height: "auto",
     marginLeft: 5,
     borderRadius: 30,
     padding: 8
